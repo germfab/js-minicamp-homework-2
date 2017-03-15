@@ -4,7 +4,7 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* for loop
+	* for loop - This is a function that allows you to repeat your instructions.
 	* && || !
 	* Array
 	* git

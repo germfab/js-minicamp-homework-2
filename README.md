@@ -4,11 +4,21 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* for loop - This is a function that allows you to repeat your instructions.
+	* for loop 
+	
+	This is a function that allows you to repeat your instructions.
+	
 	* && || !
+	These are boolean operators. They allow you to control compare values in your conditional statements. 
+	
 	* Array
+	These are a lists of objects in a variable.
+
 	* git
+	An application or a system that keeps track and control files.
+
 	* GitHub
+	It is a place in the cloud system that you can store your files.
 
 
 2. Install git.  https://git-scm.com/downloads
